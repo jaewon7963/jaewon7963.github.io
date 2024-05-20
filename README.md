@@ -8,11 +8,13 @@
 </p>
 
 
-Just change `src/portfolio.js` to get your personal portfolio. Customize portfolio theme by using your own color scheme globally in the  `src/_globalColor.scss` file. Feel free to use it as-is or personalize it as much as you want.
-
-If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
-
-Created something awesome for your fork of the portfolio and want to share it? Feel free to open a [pull request](https://github.com/saadpasta/developerFolio/pulls).
+- 2016.03 조선대학교 항공우주공학과 입학
+  
+- 2020.03 공군 17전투비행단 만기전역
+  
+- 2021.03 전남대학교 전자컴퓨터공학부 소프트웨어공학전공 편입 / 조선대학교 자퇴
+  
+- 2024.02 전남대학교 전자컴퓨터공학부 소프트웨어공학전공 학사졸업
 
 ## Table of Contents
 - [Sections](#sections)
