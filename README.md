@@ -1,6 +1,5 @@
-# 작성중인 포트폴리오
-
-## A clean, beautiful and responsive portfolio template for Developers!
+# AI개발자
+# 주재원 입니다.
 
 
 <p align="center">
