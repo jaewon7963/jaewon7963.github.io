@@ -23,21 +23,20 @@
 ## Portfolio Sections
 ✔️ 자기소개
 
-✔️ Skills
+✔️ 기술 스택
 * Python, Pytorch, Machine Learning, C, Database
   
-✔️ Education\
-✔️ Work Experience\
+✔️ 학력\
+✔️ 경력\
 * 2023.09.01 ~ 2023.11.29 써니팩토리 - 무인 의류매장 플랫폼(키오스크) & 퍼스널 컬러 진단 AI 개발 인턴십
 <p align="center">
   <kbd>
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbo2iNWIk5CIL2olr20BJJMTy-5CFSXh8_MXk6sr3YocqC7Ck8q2LvoyVJQpI-Pu29jIbKAIL0McAsVQbffqL9cr-VRtWDksDU=w1920-h922">
+    <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/002.gif" width="480" height="300">
   </kbd>
 </p>
   
-✔️ Open Source Projects Connected with GitHub\
-✔️ Big Projects\
-✔️ Achievements And Certifications 🏆\
+
+✔️ 자격증 및 수상 🏆\
 ✔️ Blogs\
 ✔️ Talks\
 ✔️ Podcast\
