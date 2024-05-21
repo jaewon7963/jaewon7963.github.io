@@ -24,6 +24,7 @@
 ✔️ 자기소개
 
 ✔️ 기술 스택
+* <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql"/>
 * Python, Pytorch, Machine Learning, C, Database
   
 ✔️ 학력\
