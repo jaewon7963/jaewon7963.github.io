@@ -31,9 +31,12 @@
 
 - 2021.03 UNITY FPS 게임 기능 구현 프로젝트
 
-  ![image](https://github.com/jaewon7963/jaewon7963.github.io/assets/81609477/1b338d51-c94a-4a69-8455-681475c0cb07)
-  
-
+<img src="https://github.com/jaewon7963/jaewon7963.github.io/assets/81609477/1b338d51-c94a-4a69-8455-681475c0cb07"/>
+<p align="center">
+  <kbd>
+<img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/010.gif"/>
+  </kbd>
+</p>
 
   * UNITY의 학습용 FPS 에셋을 기반으로, 운영되고 있는 게임들의 기능들을 직접 구현해보고자 진행한 프로젝트입니다.
   * 저를 포함하여 4명의 인원으로 진행하였으며 저는 게임플레이 요소를 담당하였습니다.
