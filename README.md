@@ -24,10 +24,20 @@
 ✔️ 자기소개
 
 ✔️ 기술 스택
-* <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql"/>
-* Python, Pytorch, Machine Learning, C, Database
+* <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c"/> <img src="https://img.shields.io/badge/C%2B%2B-512BD4?style=plastic&logo=cplusplus"/>
   
-✔️ 학력\
+✔️ 진행했던 프로젝트
+
+- 2021.03 UNITY FPS 게임 기능 구현 프로젝트
+
+- 2022.11 전력소비량 시계열 예측 프로젝트
+
+- 2023.03 화장품 성분표 인식 OCR 어플리케이션 프로젝트
+
+- 2023.09 퍼스널 컬러 진단 AI 프로젝트
+  - 프로젝트의 자세한 사항은 [여기](https://stealth-splash-4d7.notion.site/13ebbbd32df04e269c21a54c993c4a42?pvs=74)를 통해서 확인하실 수 있습니다.
+
+
 ✔️ 경력\
 * 2023.09.01 ~ 2023.11.29 써니팩토리 - 무인 의류매장 플랫폼(키오스크) & 퍼스널 컬러 진단 AI 개발 인턴십
 <p align="center">
@@ -35,14 +45,17 @@
     <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/002.gif" width="480" height="300">
   </kbd>
 </p>
+
   
 
 ✔️ 자격증 및 수상 🏆\
-✔️ Blogs\
-✔️ Talks\
-✔️ Podcast\
-✔️ Contact me\
-✔️ Twitter Timeline\
+
+- 2022.09.03 정보처리기사
+
+- 2023.04 한국스마트미디어학회 - 학부생논문경진대회 우수논문상 수상
+
+- 2023.07 전남대학교 소프트웨어중심대학사업단 - 산학협력프로젝트 성과발표회 은상 수상
+
 ✔️ GitHub Profile
 
 To view a live example, **[click here](https://developerfolio.js.org/)**.
