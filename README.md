@@ -46,11 +46,35 @@
 
 - 2022.11 전력소비량 시계열 예측 프로젝트
 
+  
   * Randomforest를 이용해 전력소비량을 예상하는, 시계열 예측 프로젝트입니다.
   * 제가 처음으로 AI에 입문을 하게 된 프로젝트이며
   * AI 모델 개발에 있어서 가장 중요한 것이 Data의 양과 품질이라는 것을 본 프로젝트를 통해 이해할 수 있었습니다.
+
+
+  <p align="center">
+    <kbd>
+  <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/data2.PNG" /><img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/heatmap.png"/>
+    </kbd>
+  </p>
+
+
   * 한전의 일별 전력 소비량, 기상청의 기상데이터들을 사용해 5년간의 데이터들을 획득하였습니다.
   * 전력 소비량에 영향을 주는 요소로 '주말, 공휴일, 날씨, 기온, 습도' 로 지정하였습니다.
+   
+
+
+  <p align="center">
+    <kbd>
+  <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/r9.png" width="480" height="300"/><img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/r12.png" width="480" height="300"/>
+    </kbd>
+  <div>
+  -  파란색 데이터는 실제 데이터이며 붉은색 데이터는 Randomforest 모델이 예측한 데이터입니다.
+  </div>
+  </p>
+  * 생성된 모델은 보유하고 있는 테스트 데이터와 훈련 데이터셋에 대하여 높은 R2 SCORE를 가졌으나, 과적합의 양상을 보였습니다.
+  * 비록 결말이 아쉬운 프로젝트이지만, 제가 AI에 입문할 수 있었던 계기가 되었습니다.
+  
  
     
 
