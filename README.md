@@ -43,6 +43,7 @@
   * 초기 목표는 게임 모드 추가, 스태미너 시스템 추가, 플레이어 제한 요소가 있었으나
   * 실제 구현은 스태미너 시스템과, 플레이어 제한 요소(질주 도중 사격 금지)만 성공하였습니다.
 
+---
 
 # 2022.11 전력소비량 시계열 예측 프로젝트
 
@@ -81,24 +82,33 @@
   
   * 비록 결말이 아쉬운 프로젝트이지만, 제가 AI에 입문할 수 있었던 계기가 되었습니다.
   
- 
+--- 
     
-
 # 2023.03 화장품 성분표 인식 OCR 어플리케이션 프로젝트
 
-  <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%EC%A1%B0.png"/>
+  <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%EC%A1%B0.png" width="500" height="300"/><img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%A1%B0.png" width="500" height="300"/>
 
   * 졸업작품이자, 논문을 작성하기 위해 진행한 프로젝트입니다.
+  * 유저가 카메라 또는 갤러리의 화장품 성분표 사진을 전송하면 이미지 내 글자를 인식하여 해당 성분을 DB에 검색하는 구조이며, 화장품 내 전성분과 배합제한성분 검출 여부를 화면으로 확인할 수 있는 서비스 입니다.
+  
+  
   * 저를 포함해 3명의 팀원과 함께 진행하였습니다.
   * Front-end, Back-end, AI 분야 중 저는 AI를 담당하였습니다.
   * TextDetection은 NAVER CLOVA 팀에서 개발한 CRAFT를 사용하였습니다.
   * TextRecognition은 NAVER CLOVA 팀에서 개발한 deep-text-recognition benchmark를 사용하였습니다.
+
+  <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/AI%20%EA%B5%AC%EC%A1%B0.png"/>
+
   * 본 프로젝트는 textrecognition 모델의 한글과 특수문자 학습을 통한, 높은 정확도
   * 화장품 성분표 특성상, 굴곡이 진 글자 및 줄바뀜으로 인해 분리가 되는 하나의 단어 와 같은 문제해결에 초점을 두어 진행하였습니다.
+  <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/init.png" width ="480" height="300"/> <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/result03.png" width ="480" height="300"/>
  
-  * 한글, 특수문자 학습을 위하여 하이퍼파라미터 조절과, Data관리(~~~~만큼의 데이터, ~~개의 Dataset), ~~ epoch 만큼 진행하여, 검증 Dataset에 대하여 정확도 약 95% 의 모델 개발에 성공.
+  * 한글, 특수문자 학습을 위하여 하이퍼파라미터 조절과 Data 및 학습 관리를 통하여
+  * 최종적으로 한글 및 특수문자로 이루어진 약 110,000개의 훈련 데이터와 40,000개의 검증 데이터로 이루어진 Dataset을 24,000 epoch 학습을 시킨 최대 정확도 약 95% 의 textRecognition 모델을 생성하였습니다.
   * 문제해결을 위하여, CRAFT를 통하여 얻어낸 bounding box 좌표들을 원근변환에 사용하여 textdetection와 textrecognition을 연결함과 동시에 굴곡을 해결하였습니다.
   * 또한, 하나의 단어가 분리되는 문제점은 ~~이러한 방식의 bounding box 정렬 및, 분리가 된 단어 판단 알고리즘을 작성하여 해결하였습니다.
+
+---
 
 # 2023.09 퍼스널 컬러 진단 AI 프로젝트
 
@@ -109,6 +119,7 @@
 
   - 프로젝트의 자세한 사항은 [여기](https://stealth-splash-4d7.notion.site/13ebbbd32df04e269c21a54c993c4a42?pvs=74)를 통해서 확인하실 수 있습니다.
 
+---
 
 ✔️ 경력\
 * 2023.09.01 ~ 2023.11.29 써니팩토리 - 무인 의류매장 플랫폼(키오스크) & 퍼스널 컬러 진단 AI 개발 인턴십
