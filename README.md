@@ -106,6 +106,7 @@
   * 한글, 특수문자 학습을 위하여 하이퍼파라미터 조절과 Data 및 학습 관리를 통하여
   * 최종적으로 한글 및 특수문자로 이루어진 약 110,000개의 훈련 데이터와 40,000개의 검증 데이터로 이루어진 Dataset을 24,000 epoch 학습을 시킨 최대 정확도 약 95% 의 textRecognition 모델을 생성하였습니다.
   * 문제해결을 위하여, CRAFT를 통하여 얻어낸 bounding box 좌표들을 원근변환에 사용하여 textdetection와 textrecognition을 연결함과 동시에 굴곡을 해결하였습니다.
+  <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/convert00.png"/><img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/convert01.png"/>
   * 또한, 하나의 단어가 분리되는 문제점은 ~~이러한 방식의 bounding box 정렬 및, 분리가 된 단어 판단 알고리즘을 작성하여 해결하였습니다.
 
 ---
