@@ -88,7 +88,7 @@
 
   <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%EC%A1%B0.png" width="500" height="300"/><img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/ocr_folder/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%A1%B0.png" width="500" height="300"/>
 
-  * 졸업작품이자, 논문을 작성하기 위해 진행한 프로젝트입니다.
+  * 졸업작품이자 논문을 작성하기 위해 진행한 프로젝트입니다.
   * 유저가 카메라 또는 갤러리의 화장품 성분표 사진을 전송하면 이미지 내 글자를 인식하여 해당 성분을 DB에 검색하는 구조이며, 화장품 내 전성분과 배합제한성분 검출 여부를 화면으로 확인할 수 있는 서비스 입니다.
   
   
