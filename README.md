@@ -93,7 +93,7 @@
   
   
   * 저를 포함해 3명의 팀원과 함께 진행하였습니다.
-  * Front-end, Back-end, AI 분야 중 저는 AI를 담당하였습니다.
+  * Front-end, Back-end, AI 세 분야 중 저는 AI를 담당하였습니다.
   * TextDetection은 NAVER CLOVA 팀에서 개발한 CRAFT를 사용하였습니다.
   * TextRecognition은 NAVER CLOVA 팀에서 개발한 deep-text-recognition benchmark를 사용하였습니다.
 
