@@ -118,7 +118,7 @@
   * 고객의 얼굴 이미지를 입력으로 받으며 -> 
 
 
-  - 프로젝트의 자세한 사항은 [여기](https://stealth-splash-4d7.notion.site/13ebbbd32df04e269c21a54c993c4a42?pvs=74)를 통해서 확인하실 수 있습니다.
+  - 프로젝트의 자세한 사항은 노션페이지, [여기](https://stealth-splash-4d7.notion.site/13ebbbd32df04e269c21a54c993c4a42?pvs=74)를 통해서 확인하실 수 있습니다.
 
 ---
 
