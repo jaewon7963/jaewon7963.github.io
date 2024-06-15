@@ -21,9 +21,6 @@
 </p>
 
 ## Portfolio Sections
-✔️ 자기소개
-
-✔️ 기술 스택
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c"/> <img src="https://img.shields.io/badge/C%2B%2B-512BD4?style=plastic&logo=cplusplus"/>
   
