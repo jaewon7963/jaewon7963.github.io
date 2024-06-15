@@ -110,7 +110,7 @@
 
   * 회사에서 사용하고 있는 무인 의류매장 키오스크에 도입할 퍼스널 컬러 진단 AI 모델을 개발하는 프로젝트로써,
   
-  * 약 2,700 장의 사진을 사용하였으며, Catboost 모델을 학습해 사용하였습니다.
+  * 크롤링을 통하여 약 2,700 장의 사진을 사용하였으며, Catboost 모델을 학습해 사용하였습니다.
   
   * 1. 고객의 얼굴 이미지를 입력으로 받으며
     2. 해당 이미지에서 이마, 뺨, 턱에서 특징들(황도, 채도, 명도 등등..)을 추출합니다.
@@ -137,8 +137,18 @@
 - 2022.09 정보처리기사
 
 - 2023.04 한국스마트미디어학회 - 학부생논문경진대회 우수논문상 수상
+  <p align="center">
+  <kbd>
+    <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/prize00.png" width="480" height="300">
+  </kbd>
+</p>
 
 - 2023.07 전남대학교 소프트웨어중심대학사업단 - 산학협력프로젝트 성과발표회 은상 수상
+  <p align="center">
+  <kbd>
+    <img src="https://github.com/jaewon7963/jaewon7963.github.io/blob/master/src/assets/images/prize01.png" width="480" height="600">
+  </kbd>
+</p>
 
 
 ---
