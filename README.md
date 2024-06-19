@@ -3,7 +3,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYA8AjAYVRkLKYMeh76Nek6yveJDP6H3M_aPtymLvbOk4IDSv7581zy7Dxev8tSx8MRbLV1YZVkSM2uoxuAm3b7VdeIv8lwplw=w1920-h1080-rw-v1" width="380" height="500" style="float: left; ">
+    <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihYA8AjAYVRkLKYMeh76Nek6yveJDP6H3M_aPtymLvbOk4IDSv7581zy7Dxev8tSx8MRbLV1YZVkSM2uoxuAm3b7VdeIv8lwplw=w1920-h1080-rw-v1" width="380" height="500" style="float: left;">
   </kbd>
   <div>
     
